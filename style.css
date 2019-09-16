@@ -1,0 +1,57 @@
+body {
+	padding: 0 15% 0 15%;
+	background: url(bgimg.jpg) fixed ;
+	background-size: 100%;
+}
+#title{
+	padding: 20px 0 20px 0;
+	margin: 50px 0 20px 0;
+	text-align: center;
+	background-color: rgb(0, 0, 0, .40);
+}
+#title h9{
+	font-size: 72pt;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+}
+#title p{
+	color: white;
+	font-size: 20pt;
+}
+#links{
+	border-radius: 30px;
+	height: 100px;
+	background-color: rgb(0, 0, 0, .40);
+	margin: 50px 0 20px 0;
+	text-align: center;
+}
+#links ul, li{
+	margin-top: 15px;
+	font-size: 18pt;
+	margin-right: 75px;
+	margin-left: 75px;
+	list-style-type: none;
+	display: inline-block;
+	font-family: 'Arima Madurai', cursive;
+	color: white;
+}
+#descr{
+	border-radius: 30px 30px 30px 30px;
+	margin-top: 25px;
+	padding: 0px 100px 30px 100px;
+	background-color: rgb(0, 0, 0, .40);
+	text-align: center ;
+	font-family: 'Arima Madurai', cursive;
+	/*color: #7183A3;*/
+	color: white;	
+}
+.img img{
+	margin-top: 80px;
+	border-radius: 5px;
+	border: white solid 8pt;
+	width: 45%;
+}
+
+.img{
+	text-align: center;
+}
